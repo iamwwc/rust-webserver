@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
@@ -13,9 +22,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73058907-2ab5-485f-aaba-7433c3166789" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +85,6 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
@@ -96,30 +99,69 @@
       <option name="presentableId" value="Default" />
       <updated>1604246638063</updated>
       <workItem from="1604246639200" duration="381000" />
-      <workItem from="1604416098573" duration="6505000" />
+      <workItem from="1604416098573" duration="8733000" />
+      <workItem from="1604740744380" duration="876000" />
     </task>
+    <task id="LOCAL-00001" summary="https://doc.rust-lang.org/book/ch20-01-single-threaded.html">
+      <created>1604503960539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604503960539</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加README">
+      <created>1604504005307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604504005307</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://doc.rust-lang.org/book/ch20-01-single-threaded.html" />
+    <MESSAGE value="添加README" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加README" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1234" height="518" key="GridCell.Tab.0.bottom" timestamp="1604501230269">
+    <state x="1391" y="268" key="CommitChangelistDialog2" timestamp="1604504004497">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="518" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604501230269" />
-    <state width="1234" height="518" key="GridCell.Tab.0.center" timestamp="1604501230269">
+    <state x="1391" y="268" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1604504004497" />
+    <state width="1234" height="518" key="GridCell.Tab.0.bottom" timestamp="1604504998765">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="518" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604501230269" />
-    <state width="1234" height="518" key="GridCell.Tab.0.left" timestamp="1604501230269">
+    <state width="1234" height="518" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604504998765" />
+    <state width="1234" height="518" key="GridCell.Tab.0.center" timestamp="1604504998765">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="518" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604501230269" />
-    <state width="1234" height="518" key="GridCell.Tab.0.right" timestamp="1604501230269">
+    <state width="1234" height="518" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604504998765" />
+    <state width="1234" height="518" key="GridCell.Tab.0.left" timestamp="1604504998765">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="518" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604501230269" />
+    <state width="1234" height="518" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604504998765" />
+    <state width="1234" height="518" key="GridCell.Tab.0.right" timestamp="1604504998765">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="518" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604504998765" />
     <state width="1270" height="488" key="GridCell.Tab.1.bottom" timestamp="1604418545183">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -140,6 +182,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1771" y="420" key="RollbackChangesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604418237160" />
+    <state x="1641" y="448" width="540" height="524" key="StructurePopup" timestamp="1604503925488">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1641" y="448" width="540" height="524" key="StructurePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1604503925488" />
+    <state x="1512" y="436" key="Vcs.Push.Dialog.v2" timestamp="1604504151310">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1604504151310" />
     <state width="678" height="535" key="javadoc.popup.new" timestamp="1604503276003">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
