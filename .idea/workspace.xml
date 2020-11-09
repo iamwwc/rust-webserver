@@ -23,7 +23,6 @@
   <component name="ChangeListManager">
     <list default="true" id="73058907-2ab5-485f-aaba-7433c3166789" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,7 @@
       <updated>1604246638063</updated>
       <workItem from="1604246639200" duration="381000" />
       <workItem from="1604416098573" duration="8733000" />
-      <workItem from="1604740744380" duration="876000" />
+      <workItem from="1604740744380" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="https://doc.rust-lang.org/book/ch20-01-single-threaded.html">
       <created>1604503960539</created>

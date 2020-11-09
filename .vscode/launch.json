@@ -7,48 +7,10 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Debug unit tests in library 'webserver'",
-            "cargo": {
-                "args": [
-                    "test",
-                    "--no-run",
-                    "--lib",
-                    "--package=webserver"
-                ],
-                "filter": {
-                    "name": "webserver",
-                    "kind": "lib"
-                }
-            },
-            "args": [],
-            "cwd": "${workspaceFolder}"
-        },
-        {
-            "type": "lldb",
-            "request": "launch",
-            "name": "Debug executable 'webserver'",
+            "name": "Debug Binary",
             "cargo": {
                 "args": [
                     "build",
-                    "--bin=webserver",
-                    "--package=webserver"
-                ],
-                "filter": {
-                    "name": "webserver",
-                    "kind": "bin"
-                }
-            },
-            "args": [],
-            "cwd": "${workspaceFolder}"
-        },
-        {
-            "type": "lldb",
-            "request": "launch",
-            "name": "Debug unit tests in executable 'webserver'",
-            "cargo": {
-                "args": [
-                    "test",
-                    "--no-run",
                     "--bin=webserver",
                     "--package=webserver"
                 ],
